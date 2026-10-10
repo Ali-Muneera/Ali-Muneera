@@ -3,7 +3,7 @@ I am a Software Engineering student of Leeds Beckett University currently learni
 
 ### What I'm Working On
 
-I am currently working on a paper trading platform, like Trading View that acts as a simulation to real world live trading allow users to practice trading strategies using real time market data using python. 
+I am currently working on a paper trading platform, that acts as a simulation to real world live trading allow users to practice trading strategies using real time market data using python. 
 
 ### You Can Reach Me At
 
